@@ -1,7 +1,9 @@
 import { data } from "./data.js";
 import {} from "./functions";
 
-/*Here is an example of an exemplary output from this file:
+/*Here is an example of an exemplary output from this file
+Your output does not need to match this exactly —
+but it must be readable, labeled, and intentional.
 
 ====================================
 📦 INITIAL DATA STATE
