@@ -1,6 +1,6 @@
 import { data } from "./data.js";
 
-//Creation Functions
+//Creation / Generation Functions
 
 //Read / Query Functions
 
