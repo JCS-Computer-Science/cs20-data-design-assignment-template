@@ -182,8 +182,6 @@ Your `index.js` must:
 - Intentional handling of invalid input
 - Code readability and organization
 
-You are not graded on UI, styling, or advanced JavaScript features.
-
 ---
 
 ## Final Notes
